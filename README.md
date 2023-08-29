@@ -7,3 +7,4 @@
 ### Web Development
 - [Introduction to HTML : Mastering Web Development Tutorials #1](https://www.youtube.com/watch?v=W0C5oEUvLHM)
 - [More basic tags : Mastering Web Development Tutorials #2](https://www.youtube.com/watch?v=2fXush0t_Lg)
+- [Basics of styling : Mastering Web Development Tutorials #3](https://www.youtube.com/watch?v=9_Sb_IS1Sac)
